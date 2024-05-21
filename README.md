@@ -31,12 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+![](EX03-1.png)
 ### Output:
+![](EX03-2.png)
 
-
-### Name:
-### Register Number:
+### Name:RAJKUMAR G
+### Register Number:212223230166
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
