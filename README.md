@@ -31,9 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![](EX03-1.png)
+![image](https://github.com/Rajkumar28072005/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144980101/ef553c7e-5aac-474a-a0da-c11936110bc2)
+
 ### Output:
-![](EX03-2.png)
+![image](https://github.com/Rajkumar28072005/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144980101/3880863e-bc55-4947-87f1-c4e1514abec7)
 
 ### Name:RAJKUMAR G
 ### Register Number:212223230166
